@@ -1,0 +1,9 @@
+bin
+obj
+[Dd]ebug
+[Rr]elease
+*.user
+*.suo
+GroboXsd.dll
+GroboXsd.pdb
+_ReSharper.GroboXsd
